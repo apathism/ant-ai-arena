@@ -1,0 +1,2 @@
+Ветлин-Ройтман 2;#0000FF;/tmp/vetlin-roytman-2
+Егоров;#FFAA00;/tmp/egorov
